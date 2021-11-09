@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../ClemBot.Api.Services/CustomPrefix/GetCustomPrefixHandler.cs'" />
-    <option name="defaultScopeName" value="File '.../ClemBot.Api.Services/CustomPrefix/GetCustomPrefixHandler.cs'" />
-    <option name="SEARCH_SCOPE" value="File '.../ClemBot.Api.Services/CustomPrefix/GetCustomPrefixHandler.cs'" />
+    <option name="customScope" value="File 'TestGenerator.cs'" />
+    <option name="defaultScopeName" value="File 'TestGenerator.cs'" />
+    <option name="SEARCH_SCOPE" value="File 'TestGenerator.cs'" />
   </component>
 </application>
