@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'AuthorizeController.cs'" />
-    <option name="defaultScopeName" value="File 'AuthorizeController.cs'" />
+    <option name="customScope" value="File 'Guild.cs'" />
+    <option name="defaultScopeName" value="File 'Guild.cs'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'AuthorizeController.cs'" />
+    <option name="SEARCH_SCOPE" value="File 'Guild.cs'" />
   </component>
 </application>
