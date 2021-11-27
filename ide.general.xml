@@ -23,11 +23,4 @@
     <entry key="ide.new.project.model" value="false" />
     <entry key="rider.enable.designer.winForms" value="true" />
   </component>
-  <component name="StatusBar">
-    <option name="widgets">
-      <map>
-        <entry key="TypeScriptInfo" value="false" />
-      </map>
-    </option>
-  </component>
 </application>
