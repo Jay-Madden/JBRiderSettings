@@ -1,0 +1,7 @@
+<keymap version="1" name="Visual Studio (macOS) copy" parent="Visual Studio OSX">
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="ServiceView.GroupByContributor" />
+  <action id="UsageGrouping.UsageType" />
+</keymap>
