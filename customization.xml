@@ -108,45 +108,12 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="StopWithDropDown" is_action="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Main Toolbar Right" />
-      <path value="RunToolbarWidgetCustomizableActionGroup" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="MainToolbarLeft" is_group="true" action_type="-1" position="1">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="SearchEverywhere" is_action="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Main Toolbar Right" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RedesignedRunToolbarWrapper" is_action="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Main Toolbar Right" />
-      <path value="RunToolbarWidgetCustomizableActionGroup" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="MainMenu" is_group="true" action_type="-1" position="0">
       <path value="root" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RunWithDropDown" is_action="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Main Toolbar Right" />
-      <path value="RunToolbarWidgetCustomizableActionGroup" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RunWithDropDown" is_action="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Main Toolbar Right" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="StopWithDropDown" is_action="true" action_type="1" position="2">
-      <path value="root" />
-      <path value="Main Toolbar Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="SearchEverywhere" is_action="true" action_type="1" position="2">
@@ -154,18 +121,9 @@
       <path value="Main Toolbar Left" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ChooseRunConfiguration" is_action="true" action_type="1" position="3">
-      <path value="root" />
-      <path value="Main Toolbar Right" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ChooseDebugConfiguration" is_action="true" action_type="1" position="4">
-      <path value="root" />
-      <path value="Main Toolbar Right" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <action id="editRunConfigurations" icon="jar:file:/Users/jaymadden/Library/Application%20Support/JetBrains/Toolbox/apps/Rider/ch-1/223.4884.77/Rider%20EAP.app/Contents/lib/app.jar!/toolbar/unknown.svg" />
-    <action id="RunToolbarWidgetAction" icon="ExecuteT4Template" />
-    <action id="FindInPath" icon="jar:file:/Users/jaymadden/Library/Application%20Support/JetBrains/Toolbox/apps/Rider/ch-1/223.4884.77/Rider%20EAP.app/Contents/lib/app.jar!/toolbar/unknown.svg" />
+    <action id="editRunConfigurations" />
+    <action id="RunToolbarWidgetAction" />
+    <action id="RunToolbarEditConfigurationAction" />
+    <action id="FindInPath" />
   </component>
 </application>
