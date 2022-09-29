@@ -3,7 +3,7 @@
     <property name="created">2020-09-15T21:24:32</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.2.2.0.0</property>
-    <property name="modified">2021-11-15T22:36:45</property>
+    <property name="modified">2022-09-27T18:41:56</property>
     <property name="originalScheme">Solarized Dark (4lex4)</property>
   </metaInfo>
   <colors>
@@ -270,7 +270,6 @@
         <option name="FOREGROUND" value="519af2" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="COFFEESCRIPT.IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="839496" />
@@ -2559,6 +2558,9 @@
         <option name="FOREGROUND" value="859900" />
         <option name="FONT_TYPE" value="3" />
       </value>
+    </option>
+    <option name="TAB_SELECTED">
+      <value />
     </option>
     <option name="TAPESTRY_COMPONENT_PARAMATER">
       <value>
