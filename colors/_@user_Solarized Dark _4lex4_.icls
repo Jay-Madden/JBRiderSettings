@@ -3,7 +3,7 @@
     <property name="created">2020-09-15T21:24:32</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.2.2.0.0</property>
-    <property name="modified">2022-09-27T18:41:56</property>
+    <property name="modified">2022-11-11T14:48:38</property>
     <property name="originalScheme">Solarized Dark (4lex4)</property>
   </metaInfo>
   <colors>
@@ -2163,6 +2163,9 @@
         <option name="EFFECT_COLOR" value="8d00f9" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="ReSharper.DYNAMIC_PROGRAM_ANALYSIS_HIGHLIGHTER_ISSUE_FRAME">
+      <value />
     </option>
     <option name="ReSharper.FORMAT_STRING_ITEM">
       <value>
