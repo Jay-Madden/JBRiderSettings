@@ -2,6 +2,6 @@
   <component name="Registry">
     <entry key="rdclient.asyncActions" value="false" />
     <entry key="debugger.new.tool.window.layout" value="false" />
-    <entry key="rider.enable.designer.winForms" value="false" />
+    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
