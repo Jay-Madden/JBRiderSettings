@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'SSEHub.Notifications.Console'" />
-    <option name="defaultScopeName" value="Project 'SSEHub.Notifications.Console'" />
+    <option name="customScope" value="Project 'SSEHub.Notifications.Shared'" />
+    <option name="defaultScopeName" value="Project 'SSEHub.Notifications.Shared'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'SSEHub.Notifications.Console'" />
+    <option name="SEARCH_SCOPE" value="Project 'SSEHub.Notifications.Shared'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
