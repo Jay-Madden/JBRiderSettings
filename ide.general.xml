@@ -20,8 +20,7 @@
     <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
     <entry key="use.tabbed.welcome.screen" value="false" />
     <entry key="ide.new.project.model" value="false" />
-    <entry key="ide.experimental.ui" value="false" />
     <entry key="rider.enable.designer.winForms" value="true" />
-    <entry key="debugger.new.tool.window.layout" value="false" />
+    <entry key="ide.experimental.ui" value="true" />
   </component>
 </application>
