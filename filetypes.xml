@@ -1,9 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
-      <mapping ext="licenses" type="PLAIN_TEXT" />
-      <mapping ext="lox" type="PLAIN_TEXT" />
       <removed_mapping ext="template" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="tps" approved="true" type="XML" />
     </extensionMap>
