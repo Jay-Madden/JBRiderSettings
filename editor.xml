@@ -26,6 +26,7 @@
   <component name="EditorSettings">
     <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="SHOW_INSPECTION_WIDGET" value="false" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="IS_WHEEL_FONTCHANGE_PERSISTENT" value="true" />
   </component>
   <component name="TodoConfiguration">
